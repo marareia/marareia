@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @marareia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-marareia/marareia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 oie, meu nome é @marareia
+- 👀 eu estou interessado em aprender a progrmar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
+ツ meu email de contato é lima.silva.maria2804@escola.pr.gov.br 
