@@ -34,3 +34,10 @@
       target="_blank">
   </a>      
 
+  ##
+
+</div>
+
+  ![Snake animation](https://github.com/marareia/marareia/blob/main/.github/workflows/github-contribution-grid-snake.svg)  
+
+</div>
